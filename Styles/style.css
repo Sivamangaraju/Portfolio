@@ -92,10 +92,6 @@ section {
 
 }
 
-span {
-    color: var(--main-color);
-}
-
 .home-content h1 {
     font-size: 5.6rem;
     font-weight: 700;
@@ -128,6 +124,10 @@ span {
 
 .home-content p {
     font-size: 1.6rem;
+}
+
+span {
+    color: var(--main-color);
 }
 
 .Social-media {
@@ -194,9 +194,9 @@ span {
 
 .about-img img {
     width: 25vw;
-    height: 70vh;
+    height: 50vh;
     border: 2px solid blue;
-    border-radius: 10%;
+    border-radius: 20%;
 }
 
 .heading {
@@ -317,7 +317,7 @@ span {
     margin-bottom: 1rem;
 }
 
-.Certification a {
+.Certification .courses a {
     color: white;
     font-size: 1.6rem;
     margin: 1rem 0 3rem;
@@ -476,8 +476,7 @@ span {
 
 }
 
-.Programming h3,
-span {
+.Programming h3 {
     color: white;
 }
 
