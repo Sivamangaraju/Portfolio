@@ -52,7 +52,7 @@ ScrollReveal().reveal('.home-contact p, .about-content', { origin: 'right' })
 
 
 const typed = new Typed('.multineText', {
-    strings: ['Software Engineer', 'Python Developer'],
+    strings: ['Software Engineer', 'Backend Developer'],
     typeSpeed: 70,
     backSpeed: 70,
     backDelay: 1000,
